@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bala Sarathi</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bala Sarathi &label=Profile%20views&color=0e75b6&style=flat" alt="Bala Sarathi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Balasarathi29&label=Profile%20views&color=0e75b6&style=flat" alt="Balasarathi29" /> </p>
 <a href="#Balasarathi29-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bala Sarathi &show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Bala Sarathi" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balasarathi29&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Balasarathi29" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
