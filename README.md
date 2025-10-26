@@ -65,7 +65,7 @@
       <br>Git
     </td>
      <td align="center" width="96">
-        <a href="#Abishake01">
+        <a href="#Balasarathi29">
           <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="48" height="48" alt="mysql" />
         </a>
         <br>MySql
@@ -87,7 +87,7 @@
       </td>
        </td>
       <td align="center" width="96">
-        <a href="#Abishake01">
+        <a href="#Balasarathi29">
           <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="48" height="48" alt="mongodb" />
         </a>
         <br>Mongodb
