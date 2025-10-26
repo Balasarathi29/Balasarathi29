@@ -70,16 +70,35 @@
     </td>
     
    <td align="center" width="96">
-      <a href="Balasarathi29">
+      <a href="#Balasarathi29">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
      <td align="center" width="96">
-      <a href="Balasarathi29">
+      <a href="#Balasarathi29">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="45" height="45" alt="React" />
       </a>
       <br>React
+        <td align="center" width="96">
+        <a href="#Balasarathi29">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+        </a>
+        <br>AWS
+      </td>
+       </td>
+      <td align="center" width="96">
+        <a href="#Abishake01">
+          <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg" width="48" height="48" alt="mongodb" />
+        </a>
+        <br>Mongodb
+      </td>
+         <td align="center" width="96">
+        <a href="#Abishake01">
+          <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="48" height="48" alt="mysql" />
+        </a>
+        <br>MySql
+      </td>
     </td>
     
   </tr>
